@@ -14,7 +14,7 @@ echo xfce4-session > ~/.xsession
  startxfce4)
 sudo /etc/init.d/xrdp start
 
-PORTNUMBER OF GUI:3389
+PORTNUMBER OF GUI:3390
 
 ubuntu user= mk-121
 password=mk990
